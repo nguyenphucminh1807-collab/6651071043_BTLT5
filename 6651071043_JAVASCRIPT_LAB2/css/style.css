@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; background: #f0f4f8; margin: 0; padding: 20px; }
+.box { max-width: 720px; margin: 0 auto; background: #fff; padding: 20px 28px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,.15); }
+h1, h2 { color: #1a5fa8; }
+label { display: inline-block; min-width: 150px; margin: 6px 0; }
+input[type=text], input[type=number], input[type=date], select { padding: 5px; margin: 4px 0; }
+button, input[type=button], input[type=submit] { padding: 6px 14px; background: #1a5fa8; color: #fff; border: 0; border-radius: 4px; cursor: pointer; margin: 6px 0; }
+button:hover, input[type=button]:hover { background: #124a85; }
+.kq { font-weight: bold; color: #c0392b; }
+.tb { border-collapse: collapse; background: #ffe0b3; }
+.tb td, .tb th { border: 1px solid #333; padding: 6px 10px; }
+li { margin: 4px 0; }
